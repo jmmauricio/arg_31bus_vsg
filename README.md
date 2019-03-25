@@ -2,9 +2,9 @@
 Argentinean electric power system equivalent of 31 buses with virtual synchronous generators.
 
 
-[Conventional generation](https://github.com/jmmauricio/arg_31bus_vsg/blob/master/data_syn.md)
-
-[Converter interface generation](https://github.com/jmmauricio/arg_31bus_vsg/blob/master/data_cig.dat)
+  <img  height="800.0" src="https://github.com/jmmauricio/arg_31bus_vsg/blob/master/figs/unifilar_v2.svg">
 
 
-https://cdn.rawgit.com/sel-fish/redis-experiments/master/dat/memDistrib-jemalloc-4.0.3.svg
+[SYN](https://github.com/jmmauricio/arg_31bus_vsg/blob/master/data_syn.md)
+
+[SYN+CIG](https://github.com/jmmauricio/arg_31bus_vsg/blob/master/data_cig.dat)
