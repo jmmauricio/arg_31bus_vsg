@@ -9,5 +9,5 @@ Two scenarios are considered, the first one with synchronous based generation (S
 
 [SYN](https://github.com/jmmauricio/arg_31bus_vsg/blob/master/data_syn.md)
 
-[SYN+CIG](https://github.com/jmmauricio/arg_31bus_vsg/blob/master/data_cig.dat)
+[SYN+CIG](https://github.com/jmmauricio/arg_31bus_vsg/blob/master/data_cig.md)
 
